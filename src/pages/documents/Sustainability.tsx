@@ -7,7 +7,7 @@ const Sustainability: React.FC = () => {
                 <h1 className="text-5xl md:text-7xl font-light mb-8 tacking-tight">Sustainability</h1>
                 <div className="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-6">
                     <p>
-                        At AIM, we recognize that our operations and the software platforms we deploy have a global footprint. We are deeply committed to environmentally responsible practices and to leveraging our technology to accelerate the global transition to a sustainable future.
+                        At Advanced Intelligence in Motion, we recognize that our operations and the software platforms we deploy have a global footprint. We are deeply committed to environmentally responsible practices and to leveraging our technology to accelerate the global transition to a sustainable future.
                     </p>
 
                     <h2 className="text-2xl font-bold mt-12 mb-4">Our Environmental Operations</h2>
@@ -17,7 +17,7 @@ const Sustainability: React.FC = () => {
 
                     <h2 className="text-2xl font-bold mt-12 mb-4">Technology for Global Sustainability</h2>
                     <p>
-                        Our most profound impact on global sustainability comes not just from internal practices, but from the immense power of our software deployed across primary industries. AIM Ontology and Forge are currently utilized by global energy providers, automotive manufacturers, and logistics giants to radically optimize their physical footprint.
+                        Our most profound impact on global sustainability comes not just from internal practices, but from the immense power of our software deployed across primary industries. Advanced Intelligence in Motion Ontology and Forge are currently utilized by global energy providers, automotive manufacturers, and logistics giants to radically optimize their physical footprint.
                     </p>
                     <ul className="list-disc pl-6 space-y-2 mt-4">
                         <li><strong>Energy Grid Optimization:</strong> Assisting utilities in balancing load distribution to minimize waste and accelerate the integration of renewable sources.</li>

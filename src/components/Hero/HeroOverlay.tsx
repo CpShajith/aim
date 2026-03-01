@@ -37,7 +37,7 @@ const HeroOverlay: React.FC = () => {
             {/* Search Input Placeholder from Screenshot 1 */}
             {/* Note: The screenshot shows a search bar in the navbar, but also a clean hero. 
           The user might want the exact look. I'll keep the button but style it minimally if needed. 
-          Actually, AIM's current site doesn't have a big button in the center usually, 
+          Actually, Advanced Intelligence in Motion's current site doesn't have a big button in the center usually, 
           but the user's prompt originally asked for one. I'll keep it but make it subtle. */}
         </div>
     );

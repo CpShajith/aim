@@ -12,8 +12,8 @@ const Footer: React.FC = () => {
                 <div className="lg:col-span-3 flex flex-col h-full">
                     <div className="mb-8">
                         <div className="text-xl font-bold flex items-center gap-2 mb-8">
-                            <img src="/aimlogo.jpeg" alt="AIM Logo" className="w-8 h-8 object-contain rounded-sm" />
-                            AIM
+                            <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-8 h-8 object-contain rounded-sm" />
+                            Advanced Intelligence in Motion
                         </div>
 
                         {/* Region Selector */}
@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
                         </div>
 
                         <p className="text-sm text-gray-500 mt-auto">
-                            © 2025 AIM Technologies Inc.<br />
+                            © 2025 Advanced Intelligence in Motion Technologies Inc.<br />
                             All rights reserved.
                         </p>
                     </div>
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
                             <li><Link to="/fedstart" className="hover:text-black">FedStart</Link></li>
                             <li><Link to="/financial-services" className="hover:text-black">Financial Services</Link></li>
                             <li><Link to="/food-beverage" className="hover:text-black">Food & Beverage</Link></li>
-                            <li><Link to="/AIM-for-builders" className="hover:text-black">AIM for Builders</Link></li>
+                            <li><Link to="/AIM-for-builders" className="hover:text-black">Advanced Intelligence in Motion for Builders</Link></li>
                             <li><Link to="/govt-financial-management" className="hover:text-black">Govt Financial Management</Link></li>
                             <li><Link to="/hospital-operations" className="hover:text-black">Hospital Operations</Link></li>
                             <li><Link to="/insurance" className="hover:text-black">Insurance</Link></li>
@@ -112,7 +112,7 @@ const Footer: React.FC = () => {
                         <ul className="space-y-3 text-sm font-medium text-gray-600">
                             <li><Link to="/cookies" className="hover:text-black">Cookies</Link></li>
                             <li><Link to="/privacy-and-civil-liberties" className="hover:text-black">Privacy and Civil Liberties</Link></li>
-                            <li><Link to="/aim-explained" className="hover:text-black">AIM Explained</Link></li>
+                            <li><Link to="/aim-explained" className="hover:text-black">Advanced Intelligence in Motion Explained</Link></li>
                             <li><Link to="/sustainability" className="hover:text-black">Sustainability</Link></li>
                             <li><Link to="/human-rights-policy" className="hover:text-black">Human Rights Policy</Link></li>
                             <li><Link to="/privacy-statement" className="hover:text-black">Privacy Statement</Link></li>

@@ -120,7 +120,7 @@ const Telecommunications = () => {
 
                         <div className="space-y-6">
                             <p className="text-gray-600 leading-relaxed">
-                                From 5G deployment to fraud detection to customer analytics, AIM helps telcos navigate the complexities of modern telecommunications infrastructure and services.
+                                From 5G deployment to fraud detection to customer analytics, Advanced Intelligence in Motion helps telcos navigate the complexities of modern telecommunications infrastructure and services.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
                                 Our platform integrates data from network equipment, billing systems, customer touchpoints, and more to provide a unified view of your operations.
@@ -288,7 +288,7 @@ const Telecommunications = () => {
                             Transform your telecommunications business with AI-powered insights and automation.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            From network optimization to customer experience to fraud detection, AIM provides the AI foundation you need to compete in the modern telecommunications landscape.
+                            From network optimization to customer experience to fraud detection, Advanced Intelligence in Motion provides the AI foundation you need to compete in the modern telecommunications landscape.
                         </p>
                         <Link to="/contact" className="px-8 py-4 bg-black text-white font-medium rounded-sm hover:bg-gray-800 transition-colors inline-flex items-center gap-2 group mt-8">
                             Get Started

@@ -75,7 +75,7 @@ const DashboardStats: React.FC = () => {
         <div className="space-y-8">
             <div>
                 <h2 className="text-2xl font-light tracking-tight text-gray-900 mb-2">Overview</h2>
-                <p className="text-gray-500">Welcome to the AIM Management Dashboard.</p>
+                <p className="text-gray-500">Welcome to the Advanced Intelligence in Motion Management Dashboard.</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

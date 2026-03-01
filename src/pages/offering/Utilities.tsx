@@ -90,7 +90,7 @@ const Utilities = () => {
                             transition={{ duration: 0.8 }}
                             className="text-5xl md:text-7xl font-light text-white tracking-tight leading-tight"
                         >
-                            AIM for Utilities
+                            Advanced Intelligence in Motion for Utilities
                         </motion.h1>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ const Utilities = () => {
 
                         <div className="space-y-6">
                             <p className="text-gray-600 leading-relaxed">
-                                From grid optimization to renewable integration to customer analytics, AIM helps utilities navigate the energy transition while maintaining reliability and affordability.
+                                From grid optimization to renewable integration to customer analytics, Advanced Intelligence in Motion helps utilities navigate the energy transition while maintaining reliability and affordability.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
                                 Our platform integrates data from SCADA systems, smart meters, weather forecasts, and more to provide a unified view of your operations.
@@ -325,7 +325,7 @@ const Utilities = () => {
                         transition={{ duration: 0.8 }}
                         className="text-5xl md:text-7xl font-light tracking-tight leading-tight mb-12"
                     >
-                        Get started with AIM Forge for Utilities
+                        Get started with Advanced Intelligence in Motion Forge for Utilities
                     </motion.h2>
 
                     <motion.div
@@ -339,7 +339,7 @@ const Utilities = () => {
                             Transform your utility operations with AI-powered insights and automation.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            From grid optimization to renewable integration to customer experience, AIM provides the foundation you need to lead the energy transition.
+                            From grid optimization to renewable integration to customer experience, Advanced Intelligence in Motion provides the foundation you need to lead the energy transition.
                         </p>
                         <Link to="/contact" className="px-8 py-4 bg-black text-white font-medium rounded-sm hover:bg-gray-800 transition-colors inline-flex items-center gap-2 group mt-8">
                             Get Started

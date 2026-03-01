@@ -80,7 +80,7 @@ const SupplyChain = () => {
 
                     <div className="space-y-6">
                         <p className="text-gray-600 leading-relaxed">
-                            AIM's supply chain solutions bring together data from across your enterprise—procurement, logistics, manufacturing, and more—to provide unprecedented visibility and control.
+                            Advanced Intelligence in Motion's supply chain solutions bring together data from across your enterprise—procurement, logistics, manufacturing, and more—to provide unprecedented visibility and control.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
                             From predicting disruptions to optimizing inventory to ensuring compliance, our platform helps you build resilient, efficient supply chains that adapt to changing conditions.
@@ -179,7 +179,7 @@ const SupplyChain = () => {
             {/* Learn about Solutions */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <h2 className="text-4xl md:text-5xl font-light mb-16">
-                    Learn about AIM Supply Chain Solutions
+                    Learn about Advanced Intelligence in Motion Supply Chain Solutions
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
@@ -217,7 +217,7 @@ const SupplyChain = () => {
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                         <div>
                             <h2 className="text-5xl md:text-6xl font-light mb-8 leading-tight">
-                                See what AIM can do for your Supply Chain
+                                See what Advanced Intelligence in Motion can do for your Supply Chain
                             </h2>
                         </div>
 
@@ -226,7 +226,7 @@ const SupplyChain = () => {
                                 Transform your supply chain operations with the power of data integration and advanced analytics.
                             </p>
                             <p className="text-gray-400 leading-relaxed">
-                                From visibility to optimization to resilience, AIM provides the platform you need to compete in today's complex global environment.
+                                From visibility to optimization to resilience, Advanced Intelligence in Motion provides the platform you need to compete in today's complex global environment.
                             </p>
                             <Link to="/contact" className="px-8 py-4 bg-white text-black font-medium rounded-sm hover:bg-gray-200 transition-colors inline-flex items-center gap-2 group mt-8">
                                 Get Started

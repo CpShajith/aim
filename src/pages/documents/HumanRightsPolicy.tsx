@@ -7,7 +7,7 @@ const HumanRightsPolicy: React.FC = () => {
                 <h1 className="text-5xl md:text-7xl font-light mb-8 tacking-tight">Human Rights Policy</h1>
                 <div className="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-6">
                     <p>
-                        Advance Intelligence in Motion (AIM) respects and promotes human rights globally. Our commitment is rooted in our foundational mission to provide transformative software to the world's most critical institutions while actively ensuring those tools are not utilized unlawfully or coercively.
+                        Advance Intelligence in Motion (Advanced Intelligence in Motion) respects and promotes human rights globally. Our commitment is rooted in our foundational mission to provide transformative software to the world's most critical institutions while actively ensuring those tools are not utilized unlawfully or coercively.
                     </p>
 
                     <h2 className="text-2xl font-bold mt-12 mb-4">Our Commitment</h2>
@@ -17,7 +17,7 @@ const HumanRightsPolicy: React.FC = () => {
 
                     <h2 className="text-2xl font-bold mt-12 mb-4">Evaluation and Constraints</h2>
                     <p>
-                        Unlike platform-agnostic technology providers, AIM actively evaluates the fundamental operating motives of our clients. We do not provide our software structures to organizations or regimes whose primary objectives conflict with western democratic values, or who systematically engage in human rights abuses.
+                        Unlike platform-agnostic technology providers, Advanced Intelligence in Motion actively evaluates the fundamental operating motives of our clients. We do not provide our software structures to organizations or regimes whose primary objectives conflict with western democratic values, or who systematically engage in human rights abuses.
                     </p>
                     <p>
                         If we discover through our rigorous internal audit frameworks that our software platforms (such as Archam or Forge) are being utilized for human rights abuses, contrary to our terms of service and democratic principles, we maintain both the technical ability and the organizational mandate to terminate the deployment.

@@ -55,7 +55,7 @@ const FinancialServices = () => {
                         transition={{ duration: 0.8 }}
                         className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-16"
                     >
-                        AIM for Financial
+                        Advanced Intelligence in Motion for Financial
                         <br />
                         Services
                     </motion.h1>

@@ -74,15 +74,17 @@ const ProductRow = ({
     index,
     name,
     desc,
-    image
+    image,
+    link
 }: {
     index: string,
     name: string,
     desc: string,
-    image: string
+    image: string,
+    link: string
 }) => {
     return (
-        <div className="min-h-[50vh] border-t border-gray-200 py-16 flex flex-col lg:flex-row items-stretch gap-8 group hover:bg-gray-50 transition-colors duration-500 px-6 md:px-12 bg-white text-black overflow-hidden">
+        <Link to={link} className="block min-h-[50vh] border-t border-gray-200 py-16 flex flex-col lg:flex-row items-stretch gap-8 group hover:bg-gray-50 transition-colors duration-500 px-6 md:px-12 bg-white text-black overflow-hidden cursor-pointer">
             {/* Left Col: Description & Index */}
             <div className="lg:w-[30%] flex flex-col justify-between py-2 z-10">
                 <p className="text-xl font-medium max-w-xs leading-relaxed text-gray-800">
@@ -110,7 +112,7 @@ const ProductRow = ({
                     {name}
                 </h2>
             </div>
-        </div>
+        </Link>
     );
 };
 
@@ -120,31 +122,36 @@ const ProductList = () => {
             index: "/0.1",
             name: "AIP",
             desc: "Automate operations, from the factory floor to the front lines",
-            image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80" // Interface/Map
+            image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80", // Interface/Map
+            link: "/aip-developers"
         },
         {
             index: "/0.2",
             name: "Archam",
             desc: "Achieve AI-driven combat superiority, from space to mud",
-            image: "https://images.unsplash.com/photo-1595878715977-2a8f8d689b9d?auto=format&fit=crop&q=80" // Military/Soldier
+            image: "https://images.unsplash.com/photo-1595878715977-2a8f8d689b9d?auto=format&fit=crop&q=80", // Military/Soldier
+            link: "/archam"
         },
         {
             index: "/0.3",
             name: "Forge",
             desc: "Build and manage Ontology-powered software, with a complete developer platform",
-            image: "https://images.unsplash.com/photo-1558494949-efc5270f313f?auto=format&fit=crop&q=80" // Node Graph
+            image: "https://images.unsplash.com/photo-1558494949-efc5270f313f?auto=format&fit=crop&q=80", // Node Graph
+            link: "/forge"
         },
         {
             index: "/0.4",
             name: "Ontology",
             desc: "The central system for orchestrating decisions across Human+AI teams",
-            image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80" // Abstract/Tech
+            image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80", // Abstract/Tech
+            link: "/ontology"
         },
         {
             index: "/0.5",
             name: "Areies",
             desc: "Autonomously deploy, monitor, and manage software across any environment",
-            image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80" // Server/Chip
+            image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80", // Server/Chip
+            link: "/areies"
         }
     ];
 
@@ -174,7 +181,7 @@ const CultureSection = () => {
                         There is so much left to build
                     </h2>
                     <p className="text-xl md:text-2xl text-gray-800 mb-12 max-w-lg leading-relaxed">
-                        AIM team deliver mission-critical outcomes for the West's most important institutions.
+                        Advanced Intelligence in Motion team deliver mission-critical outcomes for the West's most important institutions.
                     </p>
                     <Link to="/contact" className="inline-block border border-black px-8 py-4 text-sm font-bold uppercase tracking-widest hover:bg-black hover:text-white transition-colors">
                         Learn More

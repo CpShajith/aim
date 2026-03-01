@@ -35,8 +35,8 @@ const SearchOverlay: React.FC<SearchOverlayProps> = ({ onClose }) => {
             {/* Header */}
             <div className="flex items-center justify-between px-6 py-4">
                 <div className="text-xl font-bold tracking-tight flex items-center gap-2">
-                    <img src="/aimlogo.jpeg" alt="AIM Logo" className="w-8 h-8 object-contain rounded-sm" />
-                    AIM
+                    <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-8 h-8 object-contain rounded-sm" />
+                    Advanced Intelligence in Motion
                 </div>
 
                 <div className="flex items-center space-x-4">

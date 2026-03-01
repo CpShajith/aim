@@ -89,7 +89,7 @@ const Retail = () => {
                         transition={{ duration: 0.8 }}
                     >
                         <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none">
-                            AIM for Retail
+                            Advanced Intelligence in Motion for Retail
                         </h1>
                     </motion.div>
 
@@ -103,7 +103,7 @@ const Retail = () => {
                             A complete platform that brings data-driven decision making to every aspect of retail operations.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            From inventory management to customer analytics, AIM for Retail transforms how retailers operate in an increasingly complex and competitive landscape.
+                            From inventory management to customer analytics, Advanced Intelligence in Motion for Retail transforms how retailers operate in an increasingly complex and competitive landscape.
                         </p>
                     </motion.div>
                 </div>
@@ -162,7 +162,7 @@ const Retail = () => {
                                 Make decisions based on what's happening right now, not what happened last week.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM for Retail integrates data from POS systems, e-commerce platforms, warehouses, and suppliers to provide a real-time view of your entire operation. See inventory levels, sales trends, and supply chain status update as they happen.
+                                Advanced Intelligence in Motion for Retail integrates data from POS systems, e-commerce platforms, warehouses, and suppliers to provide a real-time view of your entire operation. See inventory levels, sales trends, and supply chain status update as they happen.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
                                 Our platform processes millions of transactions per day, turning raw data into actionable insights that help you respond to changing conditions faster than your competition.
@@ -302,7 +302,7 @@ const Retail = () => {
                         Ready to Transform Your Retail Operations?
                     </h2>
                     <p className="text-xl text-gray-600 mb-12">
-                        Discover how AIM can help you compete and win in today's retail landscape.
+                        Discover how Advanced Intelligence in Motion can help you compete and win in today's retail landscape.
                     </p>
                     <Link to="/contact" className="px-8 py-4 bg-black text-white font-medium rounded-sm hover:bg-gray-800 transition-colors inline-flex items-center gap-2 group">
                         Get Started

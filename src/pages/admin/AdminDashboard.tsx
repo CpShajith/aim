@@ -97,8 +97,8 @@ const AdminDashboard: React.FC = () => {
             <div className="min-h-screen bg-gray-50 flex items-center justify-center font-sans px-4">
                 <div className="bg-white p-8 md:p-12 rounded shadow-lg max-w-md w-full border border-gray-100">
                     <div className="mb-8 text-center">
-                        <img src="/aimlogo.jpeg" alt="AIM Logo" className="w-16 h-16 object-contain rounded-sm mx-auto mb-4" />
-                        <h1 className="text-2xl font-light uppercase tracking-widest text-black">AIM Admin</h1>
+                        <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-16 h-16 object-contain rounded-sm mx-auto mb-4" />
+                        <h1 className="text-2xl font-light uppercase tracking-widest text-black">Advanced Intelligence in Motion Admin</h1>
                         <p className="text-sm text-gray-400 mt-2">Sign in with your administrator account</p>
                     </div>
 
@@ -171,8 +171,8 @@ const AdminDashboard: React.FC = () => {
             <div className="w-72 bg-black text-white p-6 flex flex-col fixed inset-y-0 z-50">
                 <div className="mb-10 pt-4 flex items-center justify-between">
                     <h1 className="text-xl font-bold uppercase tracking-wide flex items-center gap-3">
-                        <img src="/aimlogo.jpeg" alt="AIM Logo" className="w-8 h-8 object-contain rounded-sm" />
-                        AIM <span className="text-gray-400 font-light ml-1">ADMIN</span>
+                        <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-8 h-8 object-contain rounded-sm" />
+                        Advanced Intelligence in Motion <span className="text-gray-400 font-light ml-1">ADMIN</span>
                     </h1>
                 </div>
 

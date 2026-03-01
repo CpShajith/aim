@@ -49,7 +49,7 @@ const Readiness = () => {
                         transition={{ duration: 0.8 }}
                     >
                         <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-8">
-                            AIM Readiness
+                            Advanced Intelligence in Motion Readiness
                         </h1>
                     </motion.div>
 
@@ -63,7 +63,7 @@ const Readiness = () => {
                             A comprehensive platform for managing and optimizing readiness across assets, personnel, and financial resources.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            From equipment maintenance to workforce training to budget planning, AIM Readiness provides the visibility and insights needed to maintain peak operational readiness.
+                            From equipment maintenance to workforce training to budget planning, Advanced Intelligence in Motion Readiness provides the visibility and insights needed to maintain peak operational readiness.
                         </p>
                     </motion.div>
                 </div>
@@ -95,7 +95,7 @@ const Readiness = () => {
                                 Readiness is not a static state—it's a continuous process of assessment, improvement, and adaptation.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM Readiness brings together data from across your organization to provide a real-time, comprehensive view of readiness status. Identify gaps, optimize resources, and ensure mission success.
+                                Advanced Intelligence in Motion Readiness brings together data from across your organization to provide a real-time, comprehensive view of readiness status. Identify gaps, optimize resources, and ensure mission success.
                             </p>
                             <a
                                 href="#"
@@ -171,7 +171,7 @@ const Readiness = () => {
                         </div>
                         <div className="space-y-6">
                             <p className="text-gray-700 leading-relaxed">
-                                AIM Readiness models these complex relationships, helping you understand not just where you are, but what actions will have the greatest impact on overall readiness.
+                                Advanced Intelligence in Motion Readiness models these complex relationships, helping you understand not just where you are, but what actions will have the greatest impact on overall readiness.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
                                 Our platform enables you to simulate scenarios, optimize resource allocation, and make data-driven decisions that improve readiness across all dimensions.
@@ -191,7 +191,7 @@ const Readiness = () => {
                                 Visual dashboards provide at-a-glance readiness status across your entire organization.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                Quickly identify areas that need attention, drill down into specific issues, and track improvement over time. From executive overviews to detailed operational views, AIM Readiness provides the right information to the right people.
+                                Quickly identify areas that need attention, drill down into specific issues, and track improvement over time. From executive overviews to detailed operational views, Advanced Intelligence in Motion Readiness provides the right information to the right people.
                             </p>
                         </div>
 
@@ -219,7 +219,7 @@ const Readiness = () => {
                                 Integrated Platform
                             </h2>
                             <p className="text-xl text-gray-300 leading-relaxed">
-                                AIM Readiness integrates with your existing systems to provide a unified view of readiness.
+                                Advanced Intelligence in Motion Readiness integrates with your existing systems to provide a unified view of readiness.
                             </p>
                         </div>
 
@@ -228,7 +228,7 @@ const Readiness = () => {
                                 Connect to maintenance management systems, HR databases, financial systems, training platforms, and more. Our platform automatically aggregates and analyzes data to provide actionable insights.
                             </p>
                             <p className="leading-relaxed">
-                                Whether you're managing a fleet of aircraft, a battalion of soldiers, or a network of facilities, AIM Readiness scales to meet your needs.
+                                Whether you're managing a fleet of aircraft, a battalion of soldiers, or a network of facilities, Advanced Intelligence in Motion Readiness scales to meet your needs.
                             </p>
                         </div>
                     </div>

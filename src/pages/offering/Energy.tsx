@@ -13,7 +13,7 @@ const Energy = () => {
                     transition={{ duration: 0.8 }}
                 >
                     <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-6">
-                        AIM
+                        Advanced Intelligence in Motion
                         <br />
                         <span className="font-medium">for Energy</span>
                     </h1>
@@ -52,7 +52,7 @@ const Energy = () => {
                             The Energy Transition requires a new operating system.
                         </h2>
                         <p className="text-xl text-gray-600 leading-relaxed mb-8">
-                            From oil and gas to renewables and utilities, the energy sector is undergoing a fundamental transformation. AIM Forge connects data, analytics, and operations to help organizations navigate this complexity.
+                            From oil and gas to renewables and utilities, the energy sector is undergoing a fundamental transformation. Advanced Intelligence in Motion Forge connects data, analytics, and operations to help organizations navigate this complexity.
                         </p>
                         <a href="#" className="text-lg text-blue-600 hover:text-blue-700 transition-colors inline-flex items-center gap-2 group">
                             Read the Whitepaper <BsArrowRight className="group-hover:translate-x-1 transition-transform" />
@@ -267,7 +267,7 @@ const Energy = () => {
                     <div>
                         <h2 className="text-5xl md:text-7xl font-light mb-8">Carbon</h2>
                         <p className="text-xl text-gray-600 leading-relaxed mb-8">
-                            Measure, report, and reduce emissions across the entire value chain. AIM Forge provides the source of truth for your net-zero journey.
+                            Measure, report, and reduce emissions across the entire value chain. Advanced Intelligence in Motion Forge provides the source of truth for your net-zero journey.
                         </p>
                         <a href="#" className="text-lg text-blue-600 hover:text-blue-700 transition-colors inline-flex items-center gap-2 group">
                             Explore Carbon Solutions <BsArrowRight className="group-hover:translate-x-1 transition-transform" />
@@ -295,7 +295,7 @@ const Energy = () => {
                     </div>
                     <div className="flex flex-col gap-8">
                         <p className="text-xl text-gray-600 leading-relaxed">
-                            Ready to transform your energy operations? Contact our team to learn more about AIM for Energy.
+                            Ready to transform your energy operations? Contact our team to learn more about Advanced Intelligence in Motion for Energy.
                         </p>
                         <a href="#" className="text-lg text-black hover:text-blue-600 transition-colors inline-flex items-center gap-2 group border-b border-black pb-2 w-fit">
                             Contact Us <BsArrowRight className="group-hover:translate-x-1 transition-transform" />

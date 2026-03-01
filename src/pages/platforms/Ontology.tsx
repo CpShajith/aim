@@ -36,7 +36,7 @@ const Ontology = () => {
                     >
                         <h2 className="text-4xl md:text-5xl font-light tracking-tight mb-8">Mapping the Core</h2>
                         <p className="text-xl font-light text-gray-400 leading-relaxed mb-6">
-                            The AIM Ontology translates thousands of complex databases into the real-world objects your organization cares about: Factories, Flights, Suppliers, and Customers.
+                            The Advanced Intelligence in Motion Ontology translates thousands of complex databases into the real-world objects your organization cares about: Factories, Flights, Suppliers, and Customers.
                         </p>
                         <p className="text-xl font-light text-gray-400 leading-relaxed">
                             It provides the context and rules required to safely unleash AI agents, ensuring they only act within the boundaries of your physical reality.

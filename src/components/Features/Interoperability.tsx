@@ -75,7 +75,7 @@ const Interoperability: React.FC = () => {
                                 className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05),transparent_70%)]"
                             />
                             <div className="text-center relative z-10">
-                                <div className="text-xs text-gray-500 mb-2">AIM ONTOLOGY</div>
+                                <div className="text-xs text-gray-500 mb-2">Advanced Intelligence in Motion ONTOLOGY</div>
                                 <div className="w-32 h-32 border border-white/20 transform rotate-45 mx-auto flex items-center justify-center">
                                     <div className="w-20 h-20 border border-white/40" />
                                 </div>

@@ -32,13 +32,13 @@ const AntiMoneyLaundering = () => {
 
                 <div className="relative z-20 max-w-6xl mx-auto px-6 w-full">
                     <div className="border-t border-white/30 pt-8 mb-8 text-xs font-mono tracking-widest opacity-70">
-                        AIM TECHNOLOGIES INC. <br />
+                        Advanced Intelligence in Motion TECHNOLOGIES INC. <br />
                         ANTI-MONEY LAUNDERING
                     </div>
                     <h2 className="text-4xl md:text-6xl font-light leading-tight max-w-4xl">
                         For over a decade, global <br />
                         banks and regulators have relied <br />
-                        on <span className="underline decoration-1 underline-offset-8">AIM Forge</span>
+                        on <span className="underline decoration-1 underline-offset-8">Advanced Intelligence in Motion Forge</span>
                     </h2>
                 </div>
             </section>
@@ -56,16 +56,16 @@ const AntiMoneyLaundering = () => {
                             Financial crime is harder than ever for institutions to detect and prevent, with digital transformation accelerating sophisticated attacks, and new, unregulated digital assets like cryptocurrencies heightening risk exposure.
                         </p>
                         <p>
-                            AIM's software is trusted by banking giants, up-and-coming fintechs, and regulators alike, leveraging multi-layered security with best-in-class architecture.
+                            Advanced Intelligence in Motion's software is trusted by banking giants, up-and-coming fintechs, and regulators alike, leveraging multi-layered security with best-in-class architecture.
                         </p>
                     </div>
                 </div>
             </section>
 
-            {/* Section 4: AIM Solves For */}
+            {/* Section 4: Advanced Intelligence in Motion Solves For */}
             <section className="px-6 py-12 md:px-20 lg:px-32 max-w-7xl mx-auto flex justify-end">
                 <div className="w-full md:w-1/2">
-                    <h3 className="text-3xl font-light mb-8">AIM Solves For:</h3>
+                    <h3 className="text-3xl font-light mb-8">Advanced Intelligence in Motion Solves For:</h3>
                     <ul className="space-y-4">
                         {['Transaction Monitoring', 'Investigations and Financial Intelligence Units', 'KYC', 'Customer and Transaction Risk Rating', 'Sanctions Screening', 'Enhanced & Customer Due Diligence'].map((item) => (
                             <li key={item} className="flex items-center gap-3 text-lg text-gray-800 border-l-2 border-transparent hover:border-black pl-0 hover:pl-4 transition-all duration-300 cursor-pointer group">
@@ -126,7 +126,7 @@ const AntiMoneyLaundering = () => {
                                 Forge for AML is a regulator approved approach to improving your AML risk posture by deploying a next generation AI-based AML and compliance process within days.
                             </p>
                         </div>
-                        <h3 className="text-2xl font-light mb-4">What sets AIM apart:</h3>
+                        <h3 className="text-2xl font-light mb-4">What sets Advanced Intelligence in Motion apart:</h3>
                     </div>
                     <div className="h-[500px] bg-gray-100 overflow-hidden">
                         <img
@@ -147,7 +147,7 @@ const AntiMoneyLaundering = () => {
                         <div className="flex gap-4">
                             <span className="text-gray-400 mt-1">↳</span>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM's machine learning-based entity resolution and advanced network-based risk models enable easy and accurate linking of customers, networks and unknown counterparties. This empowers the bank with a solid, future-proofed foundation, and a central client file — or "customer 360" — that can be updated dynamically across AML functions.
+                                Advanced Intelligence in Motion's machine learning-based entity resolution and advanced network-based risk models enable easy and accurate linking of customers, networks and unknown counterparties. This empowers the bank with a solid, future-proofed foundation, and a central client file — or "customer 360" — that can be updated dynamically across AML functions.
                             </p>
                         </div>
                     </div>
@@ -158,7 +158,7 @@ const AntiMoneyLaundering = () => {
                         <div className="flex gap-4">
                             <span className="text-gray-400 mt-1">↳</span>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM's solution takes a hybrid approach, providing comprehensive out-of-the-box modules, scenarios and models, while offering the flexibility needed to meet regulatory demands driven by your precise customer-base and risk tolerance. Ultimately, this improves alert accuracy and efficiency while providing more high-quality, automated SARs and reports for regulators.
+                                Advanced Intelligence in Motion's solution takes a hybrid approach, providing comprehensive out-of-the-box modules, scenarios and models, while offering the flexibility needed to meet regulatory demands driven by your precise customer-base and risk tolerance. Ultimately, this improves alert accuracy and efficiency while providing more high-quality, automated SARs and reports for regulators.
                             </p>
                         </div>
                     </div>
@@ -170,10 +170,10 @@ const AntiMoneyLaundering = () => {
                             <span className="text-gray-400 mt-1">↳</span>
                             <div className="space-y-6 text-gray-600 leading-relaxed">
                                 <p>
-                                    Initially built for use by government intelligence and defense agencies, with privacy and civil liberties concerns at top of mind, AIM Forge includes unparalleled, granular security controls.
+                                    Initially built for use by government intelligence and defense agencies, with privacy and civil liberties concerns at top of mind, Advanced Intelligence in Motion Forge includes unparalleled, granular security controls.
                                 </p>
                                 <p>
-                                    All data is encrypted both in transit and at rest, and AIM offers high auditability and role-based access control frameworks so that all teams can access and share the necessary data without compromising security.
+                                    All data is encrypted both in transit and at rest, and Advanced Intelligence in Motion offers high auditability and role-based access control frameworks so that all teams can access and share the necessary data without compromising security.
                                 </p>
                             </div>
                         </div>
@@ -189,7 +189,7 @@ const AntiMoneyLaundering = () => {
                                     With a holistic understanding across transaction, relationship, counterparty, KYC, and sanctions risk, analysts can quickly triage alerts and ask follow-up questions to disposition the full network of related entities. Built-in workflow management enables timely and proper escalation, triage, and review — with full collaboration and transparency across all relevant teams.
                                 </p>
                                 <p>
-                                    Once an investigation is complete, AIM generates required reporting information with full data lineage to source systems, updates reports dynamically as information changes, and alerts analysts of new risks.
+                                    Once an investigation is complete, Advanced Intelligence in Motion generates required reporting information with full data lineage to source systems, updates reports dynamically as information changes, and alerts analysts of new risks.
                                 </p>
                             </div>
                         </div>
@@ -208,7 +208,7 @@ const AntiMoneyLaundering = () => {
                         <div className="flex gap-4">
                             <span className="text-gray-400 mt-1">↳</span>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM Forge is the industry's leading commercial data infrastructure, and provides the basis for the Next Generation Financial Crime Solution as a productized, out-of-the-box solution. It includes a stable, scalable back-end built for complex data environments.
+                                Advanced Intelligence in Motion Forge is the industry's leading commercial data infrastructure, and provides the basis for the Next Generation Financial Crime Solution as a productized, out-of-the-box solution. It includes a stable, scalable back-end built for complex data environments.
                             </p>
                         </div>
                     </div>
@@ -264,7 +264,7 @@ const AntiMoneyLaundering = () => {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
                     <div>
                         <h2 className="text-5xl md:text-7xl font-light leading-tight tracking-tight mb-8">
-                            Get more out of your data platforms with AIM Forge
+                            Get more out of your data platforms with Advanced Intelligence in Motion Forge
                         </h2>
                     </div>
                     <div>
@@ -319,7 +319,7 @@ const AntiMoneyLaundering = () => {
                             <div className="space-y-4 pt-4">
                                 <div className="flex items-start gap-3">
                                     <input type="checkbox" className="mt-1" />
-                                    <label className="text-sm text-gray-600">Opt-in to receive AIM product updates.</label>
+                                    <label className="text-sm text-gray-600">Opt-in to receive Advanced Intelligence in Motion product updates.</label>
                                 </div>
                                 <div className="flex items-start gap-3">
                                     <input type="checkbox" className="mt-1" />

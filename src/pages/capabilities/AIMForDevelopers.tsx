@@ -17,7 +17,7 @@ const Section = ({ children, className = "" }: SectionProps) => (
     </div>
 );
 
-// Rebranded to AIM for Developers
+// Rebranded to Advanced Intelligence in Motion for Developers
 const Hero = () => {
     return (
         <div className="relative min-h-screen bg-[#050505] text-white flex flex-col justify-center pt-32 overflow-hidden">
@@ -40,7 +40,7 @@ const Hero = () => {
                         <span className="text-gray-500">developer platform.</span>
                     </h1>
                     <p className="text-xl text-gray-400 max-w-2xl mb-12 leading-relaxed">
-                        AIM provides the primitives you need to build LLM-powered applications.
+                        Advanced Intelligence in Motion provides the primitives you need to build LLM-powered applications.
                         Integrate directly with your existing stack, from VS Code to CI/CD pipelines.
                     </p>
 
@@ -67,7 +67,7 @@ const Hero = () => {
                             <div className="w-3 h-3 rounded-full bg-yellow-500/20" />
                             <div className="w-3 h-3 rounded-full bg-green-500/20" />
                         </div>
-                        <div className="ml-4 text-xs text-gray-500 font-mono">aim_pipeline.tsx — AIM Developer Console</div>
+                        <div className="ml-4 text-xs text-gray-500 font-mono">aim_pipeline.tsx — Advanced Intelligence in Motion Developer Console</div>
                     </div>
                     <div className="aspect-[16/9] relative">
                         <img
@@ -110,7 +110,7 @@ const IntegrationsGrid = () => {
                 <h2 className="text-4xl font-bold text-white mb-6">Ship faster with the <br />tools you rely on.</h2>
                 <div className="w-20 h-1 bg-blue-600 mb-6" />
                 <p className="text-gray-400 max-w-2xl text-lg">
-                    Don't change your workflow. AIM integrates directly into your existing development environment and pipelines.
+                    Don't change your workflow. Advanced Intelligence in Motion integrates directly into your existing development environment and pipelines.
                 </p>
             </div>
 
@@ -134,7 +134,7 @@ const Architecture3D = () => {
                 <div className="flex-1">
                     <h2 className="text-4xl font-bold text-white mb-8">Build on a solid foundation.</h2>
                     <p className="text-lg text-gray-400 mb-12">
-                        The AIM Stack provides a unified architecture for logic, data, and action.
+                        The Advanced Intelligence in Motion Stack provides a unified architecture for logic, data, and action.
                     </p>
 
                     <div className="space-y-6">
@@ -219,7 +219,7 @@ const DevWorkflow = () => {
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {[
-                        { title: '1. Prototype', desc: 'Build locally with the AIM extension for VS Code.', icon: FaCode },
+                        { title: '1. Prototype', desc: 'Build locally with the Advanced Intelligence in Motion extension for VS Code.', icon: FaCode },
                         { title: '2. Evaluate', desc: 'Run rigorous test suites to measure performance.', icon: FaTerminal },
                         { title: '3. Deploy', desc: 'Ship to production with one click.', icon: FaArrowRight },
                     ].map((step, i) => (
@@ -240,13 +240,13 @@ const DevWorkflow = () => {
 const CompareTable = () => {
     return (
         <Section className="bg-[#050505]">
-            <h2 className="text-4xl font-bold text-white mb-16 text-center">Why developers choose AIM</h2>
+            <h2 className="text-4xl font-bold text-white mb-16 text-center">Why developers choose Advanced Intelligence in Motion</h2>
             <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse">
                     <thead>
                         <tr className="border-b border-white/10">
                             <th className="py-6 px-4 text-gray-500 font-normal uppercase tracking-widest text-sm">Feature</th>
-                            <th className="py-6 px-4 text-blue-400 font-bold text-xl">AIM</th>
+                            <th className="py-6 px-4 text-blue-400 font-bold text-xl">Advanced Intelligence in Motion</th>
                             <th className="py-6 px-4 text-gray-600 font-normal">Standard LLM APIs</th>
                         </tr>
                     </thead>
@@ -279,7 +279,7 @@ const AIMForDevelopers = () => {
 
             <FeatureSection
                 title="Ontology"
-                desc="Don't feed your LLMs raw text. Bind them to a living digital twin of your organization. AIM Ontology provides the semantic layer that gives models deep understanding."
+                desc="Don't feed your LLMs raw text. Bind them to a living digital twin of your organization. Advanced Intelligence in Motion Ontology provides the semantic layer that gives models deep understanding."
                 img="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80"
             />
 
@@ -292,7 +292,7 @@ const AIMForDevelopers = () => {
 
             <FeatureSection
                 title="Actions"
-                desc="Safely write back to your systems. AIM handles the 'last mile' problem of determining which actions to take and executing them securely."
+                desc="Safely write back to your systems. Advanced Intelligence in Motion handles the 'last mile' problem of determining which actions to take and executing them securely."
                 img="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80"
             />
 

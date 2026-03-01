@@ -67,7 +67,7 @@ const GovtFinancialManagement = () => {
                             "Every dollar lost to inefficiency is a dollar not spent on the mission. Government organizations must do more with less, and financial transparency is the first step."
                         </p>
                         <p className="text-gray-400 leading-relaxed">
-                            Legacy systems fragment financial data, making it impossible to get a clear picture of spending. AIM integrates data from across the enterprise to provide a single source of truth for financial management.
+                            Legacy systems fragment financial data, making it impossible to get a clear picture of spending. Advanced Intelligence in Motion integrates data from across the enterprise to provide a single source of truth for financial management.
                         </p>
                     </div>
                 </div>

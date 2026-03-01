@@ -7,7 +7,7 @@ const PrivacyCivilLiberties: React.FC = () => {
                 <h1 className="text-5xl md:text-7xl font-light mb-8 tacking-tight">Privacy and Civil Liberties</h1>
                 <div className="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-6">
                     <p>
-                        AIM is fundamentally committed to designing software that empowers organizations while rigorously protecting privacy and civil liberties. Our platforms are built from the ground up with civil liberty safeguards as central engineering pillars, not afterthoughts.
+                        Advanced Intelligence in Motion is fundamentally committed to designing software that empowers organizations while rigorously protecting privacy and civil liberties. Our platforms are built from the ground up with civil liberty safeguards as central engineering pillars, not afterthoughts.
                     </p>
                     <h2 className="text-2xl font-bold mt-12 mb-4">Our Core Philosophy</h2>
                     <p>
@@ -25,7 +25,7 @@ const PrivacyCivilLiberties: React.FC = () => {
                     </ul>
                     <h2 className="text-2xl font-bold mt-12 mb-4">The Privacy and Civil Liberties Engineering Team</h2>
                     <p>
-                        AIM maintains a dedicated Privacy and Civil Liberties (PCL) Engineering capability. This team of technical experts and legal minds collaborates directly with our product engineers to seamlessly embed privacy-protective architectures directly into our codebase.
+                        Advanced Intelligence in Motion maintains a dedicated Privacy and Civil Liberties (PCL) Engineering capability. This team of technical experts and legal minds collaborates directly with our product engineers to seamlessly embed privacy-protective architectures directly into our codebase.
                     </p>
                     <p className="mt-12 text-sm text-gray-500">
                         Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}

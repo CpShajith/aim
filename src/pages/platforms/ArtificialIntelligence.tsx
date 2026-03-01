@@ -14,7 +14,7 @@ const ArtificialIntelligence = () => {
                     className="max-w-5xl relative z-10 text-center mx-auto"
                 >
                     <div className="flex items-center justify-center gap-4 mb-8">
-                        <span className="text-sm tracking-widest uppercase font-bold text-purple-400 border border-purple-500/30 px-4 py-1 rounded-full bg-purple-500/10">AIM Artificial Intelligence</span>
+                        <span className="text-sm tracking-widest uppercase font-bold text-purple-400 border border-purple-500/30 px-4 py-1 rounded-full bg-purple-500/10">Advanced Intelligence in Motion Artificial Intelligence</span>
                     </div>
                     <h1 className="text-6xl md:text-8xl font-medium tracking-tighter mb-8 bg-gradient-to-r from-white via-blue-100 to-purple-300 bg-clip-text text-transparent">
                         Intelligence, Amplified.

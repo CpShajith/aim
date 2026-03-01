@@ -149,7 +149,7 @@ const FederalHealth = () => {
                         >
                             <h3 className="text-3xl font-light mb-6">Execute complex, cross-agency missions with a fragmented data landscape.</h3>
                             <p className="text-xl text-gray-600 leading-relaxed mb-8">
-                                AIM Forge serves as the connective tissue for federal health data, enabling agencies to securely integrate, analyze, and act on information from disparate sources without disrupting existing workflows.
+                                Advanced Intelligence in Motion Forge serves as the connective tissue for federal health data, enabling agencies to securely integrate, analyze, and act on information from disparate sources without disrupting existing workflows.
                             </p>
                             <ul className="space-y-4 mb-8">
                                 {[
@@ -203,9 +203,9 @@ const FederalHealth = () => {
                 <h2 className="text-4xl font-light mb-16">News & Accolades</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-12">
                     {[
-                        { title: "AIM Awarded Contract to Support HHS", date: "October 2023", source: "Press Release" },
+                        { title: "Advanced Intelligence in Motion Awarded Contract to Support HHS", date: "October 2023", source: "Press Release" },
                         { title: "How Data is Transforming Federal Health", date: "September 2023", source: "FedScoop" },
-                        { title: "AIM and the Future of Disease Surveillance", date: "August 2023", source: "HealthIT News" },
+                        { title: "Advanced Intelligence in Motion and the Future of Disease Surveillance", date: "August 2023", source: "HealthIT News" },
                         { title: "Modernizing the VA Supply Chain", date: "July 2023", source: "GovExec" }
                     ].map((item, i) => (
                         <motion.div
@@ -226,7 +226,7 @@ const FederalHealth = () => {
             <section className="px-6 py-32 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="max-w-4xl">
                     <h2 className="text-5xl md:text-7xl font-light mb-12 leading-tight">
-                        Interested in solving problems with AIM software?
+                        Interested in solving problems with Advanced Intelligence in Motion software?
                     </h2>
                     <a href="#" className="text-xl text-black hover:text-blue-600 transition-colors inline-flex items-center gap-2 group border-b border-black pb-2">
                         Contact Us <BsArrowRight className="group-hover:translate-x-1 transition-transform" />

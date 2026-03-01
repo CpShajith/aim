@@ -6,7 +6,7 @@ const Semiconductors = () => {
     const newsItems = [
         {
             title: "Optimizing Chip Design with AI",
-            description: "How leading semiconductor manufacturers are using AIM to accelerate design cycles.",
+            description: "How leading semiconductor manufacturers are using Advanced Intelligence in Motion to accelerate design cycles.",
             date: "Dec 2024"
         },
         {
@@ -50,7 +50,7 @@ const Semiconductors = () => {
                     className="mb-16"
                 >
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-light tracking-tight leading-tight mb-8">
-                        AIM for
+                        Advanced Intelligence in Motion for
                         <br />
                         Semiconductors
                     </h1>
@@ -108,7 +108,7 @@ const Semiconductors = () => {
                                 Identify key variables and correlations that impact chip performance and yield.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                AIM enables semiconductor manufacturers to rapidly iterate on designs, run complex simulations, and identify optimal parameters—reducing time-to-market and improving product quality.
+                                Advanced Intelligence in Motion enables semiconductor manufacturers to rapidly iterate on designs, run complex simulations, and identify optimal parameters—reducing time-to-market and improving product quality.
                             </p>
                             <a
                                 href="#"
@@ -134,7 +134,7 @@ const Semiconductors = () => {
                                 Unify data from across your manufacturing operations to gain unprecedented visibility into production processes.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                From wafer fabrication to packaging and testing, AIM integrates data from equipment sensors, quality control systems, and supply chain platforms to provide a complete picture of your operations.
+                                From wafer fabrication to packaging and testing, Advanced Intelligence in Motion integrates data from equipment sensors, quality control systems, and supply chain platforms to provide a complete picture of your operations.
                             </p>
                             <ul className="space-y-3">
                                 {[
@@ -199,7 +199,7 @@ const Semiconductors = () => {
                                 Navigate complex global supply chains with confidence.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
-                                The semiconductor supply chain is one of the most complex in any industry. AIM provides end-to-end visibility, helping you anticipate disruptions, optimize inventory, and ensure continuity of supply for critical materials and components.
+                                The semiconductor supply chain is one of the most complex in any industry. Advanced Intelligence in Motion provides end-to-end visibility, helping you anticipate disruptions, optimize inventory, and ensure continuity of supply for critical materials and components.
                             </p>
                             <p className="text-gray-600 leading-relaxed">
                                 Track materials from raw silicon to finished chips, monitor supplier performance, and model scenarios to build resilience into your supply chain.
@@ -271,7 +271,7 @@ const Semiconductors = () => {
                         Transform Your Semiconductor Operations
                     </h2>
                     <p className="text-xl text-gray-600 mb-12">
-                        Discover how AIM can help you accelerate innovation and optimize manufacturing.
+                        Discover how Advanced Intelligence in Motion can help you accelerate innovation and optimize manufacturing.
                     </p>
                     <Link to="/contact" className="px-8 py-4 bg-black text-white font-medium rounded-sm hover:bg-gray-800 transition-colors inline-flex items-center gap-2 group">
                         Get Started

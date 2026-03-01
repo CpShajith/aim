@@ -75,7 +75,7 @@ const AIMForBuilders = () => {
                         className="space-y-6 text-lg text-gray-600 leading-relaxed"
                     >
                         <p>
-                            AIM for Builders gives early and growth-stage startups full access to the AIM Forge and AIP enterprise-grade platforms.
+                            Advanced Intelligence in Motion for Builders gives early and growth-stage startups full access to the Advanced Intelligence in Motion Forge and AIP enterprise-grade platforms.
                         </p>
                         <p>
                             From Day 1, you can leverage the same tools used by the world's most important institutions to solve complex problems. Accelerate your product roadmap, streamline operations, and scale your infrastructure without the overhead of building from scratch.
@@ -107,9 +107,9 @@ const AIMForBuilders = () => {
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
                     >
-                        <h3 className="text-3xl font-light mb-6">AIM's Cloud and AI solutions are the backbone of our program.</h3>
+                        <h3 className="text-3xl font-light mb-6">Advanced Intelligence in Motion's Cloud and AI solutions are the backbone of our program.</h3>
                         <p className="text-gray-600 mb-8 leading-relaxed">
-                            See how early-stage companies are using AIM to disrupt their industries. Our program provides not just software, but a partnership dedicated to your success.
+                            See how early-stage companies are using Advanced Intelligence in Motion to disrupt their industries. Our program provides not just software, but a partnership dedicated to your success.
                         </p>
                         <a href="#" className="text-blue-600 hover:text-blue-700 flex items-center gap-2 font-medium group text-lg">
                             Watch the Series <BsArrowRight className="group-hover:translate-x-1 transition-transform" />
@@ -121,7 +121,7 @@ const AIMForBuilders = () => {
             {/* Infrastructure Features */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <h2 className="text-3xl md:text-4xl font-light mb-16 max-w-3xl">
-                    AIM offers a continuous updated, fully managed AI infrastructure spanning:
+                    Advanced Intelligence in Motion offers a continuous updated, fully managed AI infrastructure spanning:
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     {[
@@ -157,7 +157,7 @@ const AIMForBuilders = () => {
                     <div className="flex items-center gap-4 mb-4">
                         <div className="w-16 h-16 md:w-20 md:h-20 border-4 border-current rounded-full"></div>
                         <div className="text-left">
-                            <span className="block text-4xl md:text-5xl font-medium tracking-tight">AIM</span>
+                            <span className="block text-4xl md:text-5xl font-medium tracking-tight">Advanced Intelligence in Motion</span>
                             <span className="block text-4xl md:text-5xl font-light tracking-tight text-gray-500">↳ for Builders</span>
                         </div>
                     </div>

@@ -8,17 +8,17 @@ const LifeSciences = () => {
     const caseStudies = {
         sanofi: {
             title: "Sanofi",
-            desc: "Sanofi partners with AIM to accelerate R&D and improve patient outcomes.",
+            desc: "Sanofi partners with Advanced Intelligence in Motion to accelerate R&D and improve patient outcomes.",
             img: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80"
         },
         merck: {
             title: "Merck KGaA",
-            desc: "Merck KGaA leverages AIM to optimize its supply chain and manufacturing operations.",
+            desc: "Merck KGaA leverages Advanced Intelligence in Motion to optimize its supply chain and manufacturing operations.",
             img: "https://images.unsplash.com/photo-1579165466741-7f35a4755657?auto=format&fit=crop&q=80"
         },
         novartis: {
             title: "Novartis",
-            desc: "Novartis uses AIM to integrate data across the enterprise and drive digital transformation.",
+            desc: "Novartis uses Advanced Intelligence in Motion to integrate data across the enterprise and drive digital transformation.",
             img: "https://images.unsplash.com/photo-1581093458891-2f30890918b6?auto=format&fit=crop&q=80"
         }
     };
@@ -40,7 +40,7 @@ const LifeSciences = () => {
                         className="max-w-4xl"
                     >
                         <h1 className="text-6xl md:text-8xl font-light text-white tracking-tight leading-none mb-6">
-                            AIM for Life Sciences
+                            Advanced Intelligence in Motion for Life Sciences
                         </h1>
                         <p className="text-xl md:text-2xl text-gray-200 font-light max-w-2xl">
                             Transforming Pharma Development with AI.
@@ -53,7 +53,7 @@ const LifeSciences = () => {
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-12 text-lg text-gray-600 leading-relaxed">
                     <p>
-                        A Real AI Operating System for the pharmaceutical value chain. From discovery to distribution, AIM Forge integrates data to accelerate innovation.
+                        A Real AI Operating System for the pharmaceutical value chain. From discovery to distribution, Advanced Intelligence in Motion Forge integrates data to accelerate innovation.
                     </p>
                     <p>
                         Break down silos between R&D, clinical operations, and commercial teams. Enable cross-functional collaboration and data-driven decision-making at every stage.
@@ -64,9 +64,9 @@ const LifeSciences = () => {
                 </div>
             </section>
 
-            {/* Real AI Transformation Starts with AIM */}
+            {/* Real AI Transformation Starts with Advanced Intelligence in Motion */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto bg-gray-50">
-                <h2 className="text-3xl font-light mb-12">Real AI Transformation Starts with AIM</h2>
+                <h2 className="text-3xl font-light mb-12">Real AI Transformation Starts with Advanced Intelligence in Motion</h2>
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
                     <div className="lg:col-span-1 space-y-4">
                         {Object.entries(caseStudies).map(([key, study]) => (

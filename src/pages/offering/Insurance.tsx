@@ -8,17 +8,17 @@ const Insurance = () => {
     const caseStudies = {
         sompo: {
             title: "Sompo Holdings",
-            desc: "Sompo Holdings uses AIM to transform nursing care with data.",
+            desc: "Sompo Holdings uses Advanced Intelligence in Motion to transform nursing care with data.",
             img: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80"
         },
         swissre: {
             title: "Swiss Re",
-            desc: "Swiss Re leverages AIM to enhance risk assessment and underwriting.",
+            desc: "Swiss Re leverages Advanced Intelligence in Motion to enhance risk assessment and underwriting.",
             img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80"
         },
         axa: {
             title: "AXA",
-            desc: "AXA partners with AIM to accelerate digital transformation.",
+            desc: "AXA partners with Advanced Intelligence in Motion to accelerate digital transformation.",
             img: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80"
         }
     };
@@ -40,7 +40,7 @@ const Insurance = () => {
                         className="max-w-4xl"
                     >
                         <h1 className="text-6xl md:text-8xl font-light text-white tracking-tight leading-none mb-6">
-                            AIM for Insurance
+                            Advanced Intelligence in Motion for Insurance
                         </h1>
                         <p className="text-xl md:text-2xl text-gray-200 font-light max-w-2xl">
                             Reimagining the AI-driven future of insurance.
@@ -56,7 +56,7 @@ const Insurance = () => {
                         The insurance industry is at a tipping point. Legacy systems and siloed data are preventing carriers from realizing the full potential of AI.
                     </p>
                     <p>
-                        AIM Forge integrates data from across the enterprise—from policy administration to claims and billing—to create a single source of truth.
+                        Advanced Intelligence in Motion Forge integrates data from across the enterprise—from policy administration to claims and billing—to create a single source of truth.
                     </p>
                     <p>
                         By operationalizing AI at scale, insurers can automate underwriting, streamline claims, and deliver personalized customer experiences.
@@ -157,9 +157,9 @@ const Insurance = () => {
                 </div>
             </section>
 
-            {/* Real AI Transformation Starts with AIM */}
+            {/* Real AI Transformation Starts with Advanced Intelligence in Motion */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto bg-gray-50">
-                <h2 className="text-3xl font-light mb-12">Real AI Transformation Starts with AIM</h2>
+                <h2 className="text-3xl font-light mb-12">Real AI Transformation Starts with Advanced Intelligence in Motion</h2>
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
                     <div className="lg:col-span-1 space-y-4">
                         {Object.entries(caseStudies).map(([key, study]) => (

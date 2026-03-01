@@ -26,7 +26,7 @@ const DataProtection = () => {
             <section className="px-6 py-20 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="flex flex-col md:flex-row justify-between items-start gap-16">
                     <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none max-w-3xl">
-                        AIM and Data <br /> Protection
+                        Advanced Intelligence in Motion and Data <br /> Protection
                     </h1>
                     <div className="flex flex-col items-start max-w-md pt-4">
                         <p className="text-2xl md:text-3xl font-light leading-tight text-gray-800">
@@ -50,19 +50,19 @@ const DataProtection = () => {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
                     <div>
                         <h2 className="text-4xl md:text-5xl font-light leading-tight mb-8">
-                            Around the world, AIM is helping customers meet their compliance obligations in ever-evolving regulatory environments.
+                            Around the world, Advanced Intelligence in Motion is helping customers meet their compliance obligations in ever-evolving regulatory environments.
                         </h2>
                     </div>
                     <div>
                         <h3 className="text-2xl md:text-3xl font-light leading-tight mb-8">
-                            At AIM, we're committed to helping organizations protect privacy and strengthen trust in how they use information and achieve the potential of their digital transformation.
+                            At Advanced Intelligence in Motion, we're committed to helping organizations protect privacy and strengthen trust in how they use information and achieve the potential of their digital transformation.
                         </h3>
                         <div className="space-y-6 text-gray-600 text-sm leading-relaxed">
                             <p>
-                                Organizations use AIM Forge as their secure and accountable infrastructure to maximize the utility of their data while making sure that it's processed in accordance with the rules, regulations, and norms that govern data privacy.
+                                Organizations use Advanced Intelligence in Motion Forge as their secure and accountable infrastructure to maximize the utility of their data while making sure that it's processed in accordance with the rules, regulations, and norms that govern data privacy.
                             </p>
                             <p>
-                                Among others, AIM currently offers the following data protection modules, which were specifically developed to help our customers comply with data subject rights requests under the EU General Data Protection Regulation (GDPR) and comparable privacy laws in other jurisdictions (e.g., Brazil's Lei Geral de Proteção de Dados Pessoais (LGPD), the California Consumer Privacy Act (CCPA) and its recent amendments through the California Privacy Rights Act (CPRA), the Virginia Consumer Data Protection Act (VCDPA), etc.
+                                Among others, Advanced Intelligence in Motion currently offers the following data protection modules, which were specifically developed to help our customers comply with data subject rights requests under the EU General Data Protection Regulation (GDPR) and comparable privacy laws in other jurisdictions (e.g., Brazil's Lei Geral de Proteção de Dados Pessoais (LGPD), the California Consumer Privacy Act (CCPA) and its recent amendments through the California Privacy Rights Act (CPRA), the Virginia Consumer Data Protection Act (VCDPA), etc.
                             </p>
                         </div>
                         <div className="mt-8 flex items-center gap-2 text-sm font-medium cursor-pointer hover:gap-4 transition-all">
@@ -122,7 +122,7 @@ const DataProtection = () => {
                                 Both of these modules can be deployed together as they share a common data asset that tracks data sources and sensitive data.
                             </p>
                             <div className="flex items-center gap-2 text-sm font-medium cursor-pointer hover:gap-4 transition-all justify-end">
-                                Learn More About Data Protection in AIM Forge <span className="text-lg">→</span>
+                                Learn More About Data Protection in Advanced Intelligence in Motion Forge <span className="text-lg">→</span>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@ const DataProtection = () => {
                         </div>
 
                         <div className="relative z-10">
-                            <div className="text-xs font-mono mb-2">AIM EXPLAINED SERIES</div>
+                            <div className="text-xs font-mono mb-2">Advanced Intelligence in Motion EXPLAINED SERIES</div>
                             <h3 className="text-3xl font-light leading-tight mb-2">
                                 Beyond <br /> Anonymisation <span className="inline-block transition-transform group-hover:translate-x-1">→</span>
                             </h3>
@@ -185,7 +185,7 @@ const DataProtection = () => {
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-end">
                     <h2 className="text-4xl md:text-6xl font-light tracking-tight leading-tight max-w-2xl">
-                        Interested in using AIM software for data protection?
+                        Interested in using Advanced Intelligence in Motion software for data protection?
                     </h2>
                     <div className="flex flex-col gap-8 items-start lg:items-end">
                         <button className="text-xl md:text-2xl border border-black px-8 py-4 hover:bg-black hover:text-white transition-colors">

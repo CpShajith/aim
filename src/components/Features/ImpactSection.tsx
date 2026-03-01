@@ -8,7 +8,7 @@ const ImpactSection: React.FC = () => {
                 <div className="aspect-[4/3] bg-gray-100 overflow-hidden">
                     <img
                         src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=2070"
-                        alt="AIM team working"
+                        alt="Advanced Intelligence in Motion team working"
                         className="w-full h-full object-cover"
                     />
                 </div>
@@ -19,7 +19,7 @@ const ImpactSection: React.FC = () => {
                         There is so much left to build
                     </h2>
                     <p className="text-xl md:text-2xl font-normal leading-relaxed text-gray-700 mb-12 max-w-xl">
-                        AIM team deliver mission-critical outcomes for the West's most important institutions.
+                        Advanced Intelligence in Motion team deliver mission-critical outcomes for the West's most important institutions.
                     </p>
                     <div>
                         <button className="px-8 py-4 border border-black text-sm font-bold tracking-widest uppercase hover:bg-black hover:text-white transition-colors">

@@ -7,10 +7,10 @@ const PrivacyStatement: React.FC = () => {
                 <h1 className="text-5xl md:text-7xl font-light mb-8 tacking-tight">Privacy Statement</h1>
                 <div className="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-6">
                     <p>
-                        This Privacy Statement describes how AIM collects, uses, protects, and discloses information obtained from visitors to our corporate website and users interacting with our direct corporate portals.
+                        This Privacy Statement describes how Advanced Intelligence in Motion collects, uses, protects, and discloses information obtained from visitors to our corporate website and users interacting with our direct corporate portals.
                     </p>
                     <p className="bg-gray-100 p-4 border-l-4 border-black font-medium">
-                        Please Note: This statement governs data collected directly by AIM as a corporate entity. It does NOT apply to the data that our clients process using our software platforms (such as Forge or Archam). AIM is strictly a data processor and custodian for our clients; our clients retain full sovereign ownership and control over their data at all times.
+                        Please Note: This statement governs data collected directly by Advanced Intelligence in Motion as a corporate entity. It does NOT apply to the data that our clients process using our software platforms (such as Forge or Archam). Advanced Intelligence in Motion is strictly a data processor and custodian for our clients; our clients retain full sovereign ownership and control over their data at all times.
                     </p>
 
                     <h2 className="text-2xl font-bold mt-12 mb-4">Information We Collect</h2>

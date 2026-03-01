@@ -78,7 +78,7 @@ const Procurement = () => {
                             className="max-w-3xl"
                         >
                             <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none text-white mb-6">
-                                AIM for Procurement
+                                Advanced Intelligence in Motion for Procurement
                             </h1>
                             <p className="text-xl md:text-2xl text-gray-200 leading-relaxed">
                                 End-to-End Procurement Transformation
@@ -99,7 +99,7 @@ const Procurement = () => {
                         </div>
                         <div className="space-y-6">
                             <p className="text-xl text-gray-300 leading-relaxed">
-                                AIM for Procurement integrates your entire procurement ecosystem into a single, intelligent platform.
+                                Advanced Intelligence in Motion for Procurement integrates your entire procurement ecosystem into a single, intelligent platform.
                             </p>
                             <p className="text-gray-400 leading-relaxed">
                                 From sourcing to payment, our AI-powered platform provides end-to-end visibility, automation, and optimization across your procurement operations. Make data-driven decisions, reduce costs, and mitigate risks while ensuring compliance and maximizing value.

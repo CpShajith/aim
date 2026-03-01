@@ -8,7 +8,7 @@ const HospitalOperations = () => {
     const caseStudies = {
         cleveland: {
             title: "Cleveland Clinic",
-            desc: "See how Cleveland Clinic uses AIM to improve patient flow and reduce wait times.",
+            desc: "See how Cleveland Clinic uses Advanced Intelligence in Motion to improve patient flow and reduce wait times.",
             img: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80"
         },
         tampa: {
@@ -18,7 +18,7 @@ const HospitalOperations = () => {
         },
         hca: {
             title: "HCA Healthcare",
-            desc: "HCA Healthcare partners with AIM to drive operational excellence across its network.",
+            desc: "HCA Healthcare partners with Advanced Intelligence in Motion to drive operational excellence across its network.",
             img: "https://images.unsplash.com/photo-1516549655169-df83a092fc43?auto=format&fit=crop&q=80"
         }
     };
@@ -40,7 +40,7 @@ const HospitalOperations = () => {
                         className="max-w-4xl"
                     >
                         <h1 className="text-6xl md:text-8xl font-light text-white tracking-tight leading-none mb-6">
-                            AIM for Hospitals
+                            Advanced Intelligence in Motion for Hospitals
                         </h1>
                         <p className="text-xl md:text-2xl text-gray-200 font-light max-w-2xl">
                             AI platforms delivering speed and impact for healthcare operations.
@@ -61,7 +61,7 @@ const HospitalOperations = () => {
                             An AI-Powered Operating System for Hospitals.
                         </h2>
                         <p className="text-xl text-gray-600 leading-relaxed">
-                            Bring your workforce, data, and decisions together in one place. AIM Forge integrates disparate systems to create a digital twin of your hospital operations, enabling real-time decision-making and predictive insights.
+                            Bring your workforce, data, and decisions together in one place. Advanced Intelligence in Motion Forge integrates disparate systems to create a digital twin of your hospital operations, enabling real-time decision-making and predictive insights.
                         </p>
                     </motion.div>
                     <motion.div
@@ -81,7 +81,7 @@ const HospitalOperations = () => {
 
             {/* Transformation Journeys */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto bg-gray-50">
-                <h2 className="text-3xl font-light mb-12">Transformation Journeys Start with AIM</h2>
+                <h2 className="text-3xl font-light mb-12">Transformation Journeys Start with Advanced Intelligence in Motion</h2>
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
                     <div className="lg:col-span-1 space-y-4">
                         {Object.entries(caseStudies).map(([key, study]) => (

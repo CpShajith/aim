@@ -37,7 +37,7 @@ const Defense = () => {
                                 transition={{ delay: 0.6, duration: 0.8, ease: "easeOut" }}
                                 className="text-5xl md:text-7xl font-light tracking-wide leading-none"
                             >
-                                AIM
+                                Advanced Intelligence in Motion
                             </motion.h1>
                             <motion.h1
                                 initial={{ opacity: 0, x: 50 }}
@@ -81,7 +81,7 @@ const Defense = () => {
                         transition={{ delay: 0.4 }}
                     >
                         <p className="text-xl text-gray-400 leading-relaxed">
-                            Differentiated software derives exceptional outcomes. For nearly 20 years, AIM solutions have been deployed around the world and on the front lines, powering decision dominance for the U.S. and allies.
+                            Differentiated software derives exceptional outcomes. For nearly 20 years, Advanced Intelligence in Motion solutions have been deployed around the world and on the front lines, powering decision dominance for the U.S. and allies.
                         </p>
                     </motion.div>
                 </div>
@@ -152,7 +152,7 @@ const Defense = () => {
                             transition={{ delay: 0.1 }}
                             className="text-2xl text-gray-300 mb-12 leading-relaxed"
                         >
-                            AIM provides configurable solutions to confront the most complex Defense challenges.
+                            Advanced Intelligence in Motion provides configurable solutions to confront the most complex Defense challenges.
                         </motion.p>
 
                         <div className="space-y-6">
@@ -183,10 +183,10 @@ const Defense = () => {
                     className="border-l-2 border-white/20 pl-8 md:pl-12"
                 >
                     <p className="text-2xl md:text-3xl font-light leading-relaxed mb-8">
-                        "AIM was founded on the belief that the United States, its allies, and partners should harness the most advanced technical capabilities for their defense and prosperity."
+                        "Advanced Intelligence in Motion was founded on the belief that the United States, its allies, and partners should harness the most advanced technical capabilities for their defense and prosperity."
                     </p>
                     <p className="text-gray-500 uppercase tracking-widest text-sm">
-                        Dr. Alex Karp, CEO, AIM
+                        Dr. Alex Karp, CEO, Advanced Intelligence in Motion
                     </p>
                 </motion.div>
             </section>
@@ -207,7 +207,7 @@ const Defense = () => {
                     </div>
                     <div className="flex flex-col justify-between gap-8">
                         <p className="text-xl text-gray-400 max-w-md lg:ml-auto lg:text-right">
-                            To learn about life at AIM, visit our careers page.
+                            To learn about life at Advanced Intelligence in Motion, visit our careers page.
                         </p>
                         <div className="flex justify-end">
                             <a href="#" className="text-lg text-white hover:text-blue-400 transition-colors flex items-center gap-4 group border-b border-white/20 pb-2 w-full lg:w-auto justify-between lg:justify-start">

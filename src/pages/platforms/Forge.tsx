@@ -17,7 +17,7 @@ const Forge = () => {
                         <div className="w-12 h-12 border border-white/20 rounded-full flex items-center justify-center bg-white/5 backdrop-blur-sm">
                             <BsLayers className="text-xl" />
                         </div>
-                        <span className="text-xl tracking-widest uppercase font-bold text-gray-400">AIM Platform</span>
+                        <span className="text-xl tracking-widest uppercase font-bold text-gray-400">Advanced Intelligence in Motion Platform</span>
                     </div>
                     <h1 className="text-6xl md:text-8xl font-light tracking-tighter mb-8 leading-tight">
                         Forge.

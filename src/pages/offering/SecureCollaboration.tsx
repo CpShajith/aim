@@ -90,7 +90,7 @@ const SecureCollaboration = () => {
                                 Enable secure information sharing and collaboration across allies and mission partners.
                             </p>
                             <p className="text-gray-400 leading-relaxed">
-                                In today's complex security environment, effective collaboration is essential. But sharing sensitive information across organizational boundaries introduces significant risks. AIM's Secure Collaboration platform solves this challenge.
+                                In today's complex security environment, effective collaboration is essential. But sharing sensitive information across organizational boundaries introduces significant risks. Advanced Intelligence in Motion's Secure Collaboration platform solves this challenge.
                             </p>
                             <a
                                 href="#"
@@ -114,7 +114,7 @@ const SecureCollaboration = () => {
 
                         <div className="lg:col-span-2 space-y-6">
                             <p className="text-xl text-gray-300 leading-relaxed">
-                                AIM's platforms are designed for secure information sharing in the most demanding environments.
+                                Advanced Intelligence in Motion's platforms are designed for secure information sharing in the most demanding environments.
                             </p>
                             <p className="text-gray-400 leading-relaxed">
                                 Whether you're coordinating operations with coalition partners, sharing intelligence across agencies, or collaborating with contractors, our platform provides the security controls and flexibility you need. Built on zero-trust principles with defense-in-depth architecture.

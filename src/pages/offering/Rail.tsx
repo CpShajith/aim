@@ -55,7 +55,7 @@ const Rail = () => {
                     transition={{ duration: 0.8 }}
                     className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-16"
                 >
-                    AIM for Rail
+                    Advanced Intelligence in Motion for Rail
                 </motion.h1>
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
@@ -71,7 +71,7 @@ const Rail = () => {
                             Transforming rail operations through advanced data integration, AI-powered analytics, and real-time decision-making capabilities.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            AIM for Rail brings together disparate data sources across your network to provide unprecedented visibility and control over operations, maintenance, and safety.
+                            Advanced Intelligence in Motion for Rail brings together disparate data sources across your network to provide unprecedented visibility and control over operations, maintenance, and safety.
                         </p>
                     </div>
                 </div>
@@ -168,7 +168,7 @@ const Rail = () => {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-medium">Data Integration</h3>
                         <p className="text-gray-700 leading-relaxed">
-                            AIM for Rail integrates data from your existing systems—ERP, SCADA, GPS tracking, maintenance records, and more—into a unified platform.
+                            Advanced Intelligence in Motion for Rail integrates data from your existing systems—ERP, SCADA, GPS tracking, maintenance records, and more—into a unified platform.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
                             Our platform automatically cleanses, normalizes, and enriches your data, making it immediately actionable for decision-makers across your organization.

@@ -7,7 +7,7 @@ const Cookies: React.FC = () => {
                 <h1 className="text-5xl md:text-7xl font-light mb-8 tacking-tight">Cookies Policy</h1>
                 <div className="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-6">
                     <p>
-                        At AIM, we utilize cookies and similar tracking technologies to ensure our website functions securely efficiently and to provide you with the best possible experience when navigating our platforms.
+                        At Advanced Intelligence in Motion, we utilize cookies and similar tracking technologies to ensure our website functions securely efficiently and to provide you with the best possible experience when navigating our platforms.
                     </p>
                     <h2 className="text-2xl font-bold mt-12 mb-4">What Are Cookies?</h2>
                     <p>

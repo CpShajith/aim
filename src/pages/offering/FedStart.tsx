@@ -13,7 +13,7 @@ const FedStart = () => {
                         transition={{ duration: 0.8 }}
                         className="text-6xl md:text-8xl font-light tracking-tight leading-none"
                     >
-                        AIM
+                        Advanced Intelligence in Motion
                         <br />
                         <span className="font-medium">FedStart</span>
                     </motion.h1>
@@ -41,7 +41,7 @@ const FedStart = () => {
                     />
                     <div className="absolute inset-0 flex items-center justify-center">
                         <h2 className="text-4xl md:text-6xl text-white font-light tracking-wider border-2 border-white/30 p-8 backdrop-blur-sm">
-                            AIM <span className="font-bold">→ FedStart</span>
+                            Advanced Intelligence in Motion <span className="font-bold">→ FedStart</span>
                         </h2>
                     </div>
                 </motion.div>
@@ -55,7 +55,7 @@ const FedStart = () => {
                     </div>
                     <div>
                         <p className="text-xl text-gray-600 leading-relaxed mb-8">
-                            AIM FedStart provides a fully managed, accredited environment for your software to run in. We handle the compliance, security, and operations, so you can focus on delivering value to the government.
+                            Advanced Intelligence in Motion FedStart provides a fully managed, accredited environment for your software to run in. We handle the compliance, security, and operations, so you can focus on delivering value to the government.
                         </p>
                         <ul className="space-y-4">
                             {[
@@ -107,7 +107,7 @@ const FedStart = () => {
                     {[
                         { title: "Time to Market", icon: BsSpeedometer2, desc: "Reduce accreditation timelines from years to weeks. Deploy your software instantly into pre-authorized environments." },
                         { title: "Cost Savings", icon: BsGraphUp, desc: "Eliminate the millions of dollars in upfront costs associated with building and maintaining a federal compliance program." },
-                        { title: "Risk Reduction", icon: BsShieldLock, desc: "Leverage AIM's proven security posture and continuous monitoring to mitigate risk and ensure ongoing compliance." },
+                        { title: "Risk Reduction", icon: BsShieldLock, desc: "Leverage Advanced Intelligence in Motion's proven security posture and continuous monitoring to mitigate risk and ensure ongoing compliance." },
                         { title: "Market Access", icon: BsPeople, desc: "Gain immediate access to the entire federal marketplace, including Defense, Intelligence, and Civilian agencies." }
                     ].map((item, i) => (
                         <motion.div
