@@ -15,7 +15,7 @@ const Areies = () => {
                     <div className="flex items-center gap-4 mb-8">
                         <span className="text-sm tracking-widest uppercase font-bold text-gray-500 border border-gray-300 px-4 py-1 rounded-full">Continuous Delivery</span>
                     </div>
-                    <h1 className="text-6xl md:text-8xl font-medium tracking-tight mb-8">
+                    <h1 className="text-5xl md:text-8xl font-medium tracking-tight mb-8">
                         Areies
                     </h1>
                     <p className="text-2xl md:text-3xl font-light text-gray-600 max-w-3xl leading-snug">

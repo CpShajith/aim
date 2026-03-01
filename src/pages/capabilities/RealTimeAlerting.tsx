@@ -26,7 +26,7 @@ const RealTimeAlerting = () => {
                             <span className="w-2 h-2 rounded-full bg-red-500 animate-ping" />
                             <span className="text-red-400 font-mono text-sm uppercase tracking-widest">Live Monitoring</span>
                         </div>
-                        <h1 className="text-6xl md:text-8xl font-bold mb-8 leading-tight">
+                        <h1 className="text-5xl md:text-8xl font-bold mb-8 leading-tight">
                             Decisions at <br /> the Speed of Data.
                         </h1>
                         <p className="text-xl text-red-100/70 leading-relaxed mb-12">

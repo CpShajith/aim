@@ -24,7 +24,7 @@ const Hero = () => {
                         <motion.h1
                             initial={{ opacity: 0, y: 20 }}
                             animate={{ opacity: 1, y: 0 }}
-                            className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-12"
+                            className="text-5xl md:text-8xl font-light tracking-tight leading-none mb-12"
                         >
                             The Operating System <br /> for Data Integration.
                         </motion.h1>

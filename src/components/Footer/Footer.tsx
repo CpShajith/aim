@@ -11,9 +11,9 @@ const Footer: React.FC = () => {
                 {/* Left Column: Copyright & Social */}
                 <div className="lg:col-span-3 flex flex-col h-full">
                     <div className="mb-8">
-                        <div className="text-xl font-bold flex items-center gap-2 mb-8">
+                        <div className="text-xl font-bold flex flex-col md:flex-row items-start md:items-center gap-2 mb-8 break-words text-wrap">
                             <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-8 h-8 object-contain rounded-sm" />
-                            Advanced Intelligence in Motion
+                            <span>Advanced Intelligence in Motion</span>
                         </div>
 
                         {/* Region Selector */}

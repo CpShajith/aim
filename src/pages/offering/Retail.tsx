@@ -88,7 +88,7 @@ const Retail = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8 }}
                     >
-                        <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none">
+                        <h1 className="text-5xl md:text-8xl font-light tracking-tight leading-none">
                             Advanced Intelligence in Motion for Retail
                         </h1>
                     </motion.div>

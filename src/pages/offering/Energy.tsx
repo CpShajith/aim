@@ -12,7 +12,7 @@ const Energy = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
                 >
-                    <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-6">
+                    <h1 className="text-5xl md:text-8xl font-light tracking-tight leading-none mb-6">
                         Advanced Intelligence in Motion
                         <br />
                         <span className="font-medium">for Energy</span>

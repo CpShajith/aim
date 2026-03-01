@@ -77,7 +77,7 @@ const Procurement = () => {
                             transition={{ duration: 0.8 }}
                             className="max-w-3xl"
                         >
-                            <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none text-white mb-6">
+                            <h1 className="text-5xl md:text-8xl font-light tracking-tight leading-none text-white mb-6">
                                 Advanced Intelligence in Motion for Procurement
                             </h1>
                             <p className="text-xl md:text-2xl text-gray-200 leading-relaxed">

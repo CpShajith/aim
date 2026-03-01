@@ -25,7 +25,7 @@ const EdgeAI = () => {
                         <div className="inline-block px-3 py-1 mb-6 border border-green-500/30 rounded-full bg-green-900/10 text-green-400 text-xs font-mono tracking-widest uppercase">
                             Disconnected Operations
                         </div>
-                        <h1 className="text-6xl md:text-8xl font-medium tracking-tighter mb-8 leading-none">
+                        <h1 className="text-5xl md:text-8xl font-medium tracking-tighter mb-8 leading-none">
                             Intelligence <br /> <span className="text-gray-500">at the Edge.</span>
                         </h1>
                         <p className="text-xl text-gray-400 max-w-2xl leading-relaxed mb-12">

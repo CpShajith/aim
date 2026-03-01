@@ -53,7 +53,7 @@ const Rail = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
-                    className="text-6xl md:text-8xl font-light tracking-tight leading-none mb-16"
+                    className="text-5xl md:text-8xl font-light tracking-tight leading-none mb-16"
                 >
                     Advanced Intelligence in Motion for Rail
                 </motion.h1>

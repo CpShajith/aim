@@ -41,9 +41,9 @@ const MenuOverlay: React.FC<MenuOverlayProps> = ({ onClose }) => {
             <div className="max-w-[1600px] mx-auto px-6 py-4">
                 {/* Header */}
                 <div className="flex justify-between items-center mb-12">
-                    <div className="text-xl font-bold tracking-tight flex items-center gap-2">
+                    <div className="text-xl font-bold tracking-tight flex items-center gap-2 break-words text-wrap max-w-[80vw]">
                         <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-8 h-8 object-contain rounded-sm" />
-                        Advanced Intelligence in Motion
+                        <span>Advanced Intelligence in Motion</span>
                     </div>
                     <button
                         onClick={onClose}

@@ -19,7 +19,7 @@ const Forge = () => {
                         </div>
                         <span className="text-xl tracking-widest uppercase font-bold text-gray-400">Advanced Intelligence in Motion Platform</span>
                     </div>
-                    <h1 className="text-6xl md:text-8xl font-light tracking-tighter mb-8 leading-tight">
+                    <h1 className="text-5xl md:text-8xl font-light tracking-tighter mb-8 leading-tight">
                         Forge.
                         <br />
                         <span className="text-gray-500">The Ontology OS.</span>

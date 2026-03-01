@@ -11,7 +11,7 @@ const FedStart = () => {
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8 }}
-                        className="text-6xl md:text-8xl font-light tracking-tight leading-none"
+                        className="text-5xl md:text-8xl font-light tracking-tight leading-none"
                     >
                         Advanced Intelligence in Motion
                         <br />

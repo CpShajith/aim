@@ -38,7 +38,7 @@ const Hero = () => {
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1 }}
-                    className="text-6xl md:text-8xl lg:text-9xl font-medium tracking-tight mb-8"
+                    className="text-5xl md:text-8xl lg:text-9xl font-medium tracking-tight mb-8"
                 >
                     AI-Powered Automation <br />
                     for Every Decision

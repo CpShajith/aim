@@ -25,7 +25,7 @@ const DataProtection = () => {
             {/* Header */}
             <section className="px-6 py-20 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="flex flex-col md:flex-row justify-between items-start gap-16">
-                    <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none max-w-3xl">
+                    <h1 className="text-5xl md:text-8xl font-light tracking-tight leading-none max-w-3xl">
                         Advanced Intelligence in Motion and Data <br /> Protection
                     </h1>
                     <div className="flex flex-col items-start max-w-md pt-4">

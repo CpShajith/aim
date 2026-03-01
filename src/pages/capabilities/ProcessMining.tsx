@@ -26,7 +26,7 @@ const ProcessMining = () => {
                         initial={{ opacity: 0, y: 30 }}
                         animate={{ opacity: 1, y: 0 }}
                     >
-                        <h1 className="text-6xl md:text-8xl font-light mb-8">
+                        <h1 className="text-5xl md:text-8xl font-light mb-8">
                             X-Ray <br /> <span className="font-bold text-teal-400">Your Operations.</span>
                         </h1>
                         <p className="text-xl text-teal-100 max-w-3xl leading-relaxed mb-12">

@@ -42,7 +42,7 @@ const Navbar: React.FC = () => {
                     <div className="flex items-center shrink-0">
                         <Link to="/" className="text-lg md:text-xl font-bold tracking-tight flex items-center gap-1.5 md:gap-2">
                             <img src="/aimlogo.jpeg" alt="Advanced Intelligence in Motion Logo" className="w-5 h-5 md:w-8 md:h-8 object-contain rounded-sm" />
-                            <span>Advanced Intelligence in Motion</span>
+                            <span className="hidden md:inline">Advanced Intelligence in Motion</span>
                         </Link>
                     </div>
 

@@ -39,7 +39,7 @@ const HospitalOperations = () => {
                         transition={{ duration: 0.8 }}
                         className="max-w-4xl"
                     >
-                        <h1 className="text-6xl md:text-8xl font-light text-white tracking-tight leading-none mb-6">
+                        <h1 className="text-5xl md:text-8xl font-light text-white tracking-tight leading-none mb-6">
                             Advanced Intelligence in Motion for Hospitals
                         </h1>
                         <p className="text-xl md:text-2xl text-gray-200 font-light max-w-2xl">

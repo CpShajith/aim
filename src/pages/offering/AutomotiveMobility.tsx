@@ -48,7 +48,7 @@ const AutomotiveMobility = () => {
                     Advanced Intelligence in Motion / Automotive & Mobility
                 </div>
                 <div className="flex flex-col md:flex-row justify-between items-start gap-16">
-                    <h1 className="text-6xl md:text-8xl font-light tracking-tight leading-none max-w-3xl">
+                    <h1 className="text-5xl md:text-8xl font-light tracking-tight leading-none max-w-3xl">
                         Automotive & <br /> Mobility
                     </h1>
                     <div className="flex flex-col items-start max-w-md pt-4">
@@ -478,7 +478,7 @@ const AutomotiveMobility = () => {
             {/* Define the Future Section */}
             <section className="px-6 py-24 md:px-20 lg:px-32 max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
-                    <h2 className="text-6xl md:text-8xl font-light tracking-tight leading-none">
+                    <h2 className="text-5xl md:text-8xl font-light tracking-tight leading-none">
                         Define the future <br /> of mobility today
                     </h2>
                     <div className="flex flex-col gap-8">

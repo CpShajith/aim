@@ -35,7 +35,7 @@ const Hero = () => {
                             Developer Preview
                         </span>
                     </div>
-                    <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-8 leading-none">
+                    <h1 className="text-5xl md:text-8xl font-bold tracking-tight mb-8 leading-none">
                         The most powerful <br />
                         <span className="text-gray-500">developer platform.</span>
                     </h1>
