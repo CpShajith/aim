@@ -16,7 +16,7 @@ const Ontology = () => {
                         <BsLayers className="text-3xl text-gray-400" />
                         <span className="text-sm tracking-widest uppercase font-bold text-gray-500">The Semantic Layer</span>
                     </div>
-                    <h1 className="text-6xl md:text-[100px] font-medium tracking-tighter mb-8 leading-none">
+                    <h1 className="text-5xl md:text-[100px] font-medium tracking-tighter mb-8 leading-none">
                         Ontology
                     </h1>
                     <p className="text-2xl md:text-4xl font-light text-gray-600 leading-tight">

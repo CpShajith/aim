@@ -40,7 +40,7 @@ const Hero = () => {
                     transition={{ duration: 1 }}
                     className="text-5xl md:text-8xl lg:text-9xl font-medium tracking-tight mb-8"
                 >
-                    AI-Powered Automation <br />
+                    AI-Powered Automation <br className="hidden md:block" />
                     for Every Decision
                 </motion.h1>
             </div>

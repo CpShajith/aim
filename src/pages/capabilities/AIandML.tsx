@@ -15,7 +15,7 @@ const Hero = () => {
                 transition={{ duration: 0.8 }}
                 className="z-10 text-center"
             >
-                <h1 className="text-[12rem] md:text-[16rem] font-bold leading-none tracking-tighter bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-500 select-none">
+                <h1 className="text-7xl md:text-[12rem] lg:text-[16rem] font-bold leading-none tracking-tighter bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-500 select-none">
                     AIP
                 </h1>
                 <p className="text-2xl md:text-3xl text-gray-400 font-light tracking-[0.2em] -mt-4 uppercase">

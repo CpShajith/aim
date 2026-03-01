@@ -18,7 +18,7 @@ const Archam = () => {
                     <div className="flex items-center gap-4 mb-8">
                         <span className="text-sm tracking-widest uppercase font-bold text-gray-400 border border-gray-700 px-4 py-1 rounded-full bg-black/50 backdrop-blur">Advanced Intelligence in Motion Defense Platform</span>
                     </div>
-                    <h1 className="text-6xl md:text-[100px] font-light tracking-tighter mb-8 leading-none">
+                    <h1 className="text-5xl md:text-[100px] font-light tracking-tighter mb-8 leading-none">
                         Archam
                     </h1>
                     <p className="text-2xl md:text-3xl font-medium text-gray-300 max-w-3xl leading-snug mb-6">
