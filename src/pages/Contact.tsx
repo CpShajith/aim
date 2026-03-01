@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { BsArrowUpRight } from 'react-icons/bs';
 import ContactForm from '../components/Contact/ContactForm';
