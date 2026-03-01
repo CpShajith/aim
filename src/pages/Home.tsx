@@ -33,11 +33,19 @@ const Hero = () => {
                 <div className="absolute inset-0 bg-black/20" />
             </motion.div>
 
-            <div className="relative z-10 text-center max-w-6xl mx-auto px-6">
+            <div className="relative z-10 text-center max-w-6xl mx-auto px-6 flex flex-col items-center">
+                <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 1 }}
+                    className="md:hidden text-xs font-bold tracking-widest uppercase text-gray-300 mb-6 drop-shadow-md border border-white/20 px-4 py-1.5 rounded-full bg-black/30 backdrop-blur-sm"
+                >
+                    Advanced Intelligence in Motion
+                </motion.div>
                 <motion.h1
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 1 }}
+                    transition={{ duration: 1, delay: 0.1 }}
                     className="text-5xl md:text-8xl lg:text-9xl font-medium tracking-tight mb-8"
                 >
                     AI-Powered Automation <br className="hidden md:block" />
